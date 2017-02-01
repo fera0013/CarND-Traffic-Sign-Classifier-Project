@@ -4,3 +4,7 @@ data
 models
 *.swp
 *.p
+*.data-00000-of-00001
+lenet/.index
+*.meta
+lenet/checkpoint
